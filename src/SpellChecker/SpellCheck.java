@@ -55,7 +55,7 @@ public class SpellCheck {
 				
 				System.out.println();
 				
-				//list contains search
+				/*//list contains search
 				startTime = System.currentTimeMillis();
 				for (String word : inp) {
 					if (!wordList.contains("word")) {
@@ -65,7 +65,7 @@ public class SpellCheck {
 				}
 				endTime = System.currentTimeMillis();
 				totalTime = endTime - startTime;
-				System.out.println("time with list contains- " + totalTime);
+				System.out.println("time with list contains- " + totalTime);*/
 				
 				//Set search
 				startTime = System.currentTimeMillis();
